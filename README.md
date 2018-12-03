@@ -17,4 +17,4 @@ make all
 ./main.exe HelloWorld_Kernel.aocx
 ```
 
-you can edit **Makefile** to choose whether to use software emulation or generate headware binary file.
+you can edit **Makefile** to choose whether to use software emulation or generate hardware binary file.
