@@ -1,5 +1,5 @@
 # A HelloWorld project written in OpenCL
-##compile
+## compile
 If you just want to compile main.cpp which is run as host program: 
 ```
 make host
@@ -12,7 +12,7 @@ Or build them all:
 ```
 make all
 ```
-##run
+## run
 ```
 ./main.exe HelloWorld_Kernel.aocx
 ```
